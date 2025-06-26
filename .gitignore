@@ -1,0 +1,12 @@
+# Ignorar ambiente local do Langflow
+langflow-dev/
+.env
+.venv/
+
+# Node/Vite
+node_modules/
+dist/
+
+# Python cache
+__pycache__/
+*.pyc

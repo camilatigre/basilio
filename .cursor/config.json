@@ -1,0 +1,7 @@
+{
+    "commit": {
+      "strategy": "diff",
+      "language": "en",
+      "style": "conventional"
+    }
+  }  
